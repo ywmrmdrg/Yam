@@ -1,2 +1,2 @@
-# Yam
-This is my profile
+# Hello, I'm Yam
+Welcome to my Github Profile
