@@ -1,3 +1,6 @@
 # About me
 # Personal Information
-- Name
+- Name: Ywee Amer Madriaga
+- Location: Biñan , Laguna
+- Contact
+      - Email: yweeamer@gmail.com
